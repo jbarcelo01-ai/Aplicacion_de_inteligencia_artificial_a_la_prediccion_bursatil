@@ -19,3 +19,8 @@ data/processed/
 
 # Mac
 .DS_Store
+
+# APIkey
+.env
+secrets.json
+*.pem
